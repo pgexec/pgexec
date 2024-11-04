@@ -3,7 +3,9 @@
 ### Entre em contato comigo através de:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/paulo-gomes-7493a9209/)
 
-![pgexec GitHub stats](https://github-readme-stats.vercel.app/api?username=pgexec&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme)
+![pgexec GitHub stats](https://github-readme-stats.vercel.app/api?username=pgexec&show_icons=true&theme=radical)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme)
 
 
 ### Tecnologia que tenho conhecimento:
