@@ -27,7 +27,9 @@ Meu objetivo é encontrar uma oportunidade onde eu possa me aprofundar em novos 
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
     <img align="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></img>
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
-    <img align="center" alt="python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
+    <img align="center" alt="python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
+    
+    
 </div>
 <br>
 
