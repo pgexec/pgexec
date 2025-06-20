@@ -1,9 +1,9 @@
 ## Ola, seja bem-vindo, Eu sou o Paulo.✌️
-Desenvolvedor front-end com sólida experiência em diversas tecnologias, incluindo React.js, JavaScript, Python, Node.js, Java, PostgreSQL, MongoDB, C, HTML5 e CSS. Estou em constante aprimoramento e estudo, buscando ir além dos conhecimentos acadêmicos enquanto concluo minha graduação em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor fullstack com sólida experiência em diversas tecnologias, incluindo React.js, JavaScript, Python, Node.js, Java, PostgreSQL, MongoDB, C, HTML5 e CSS. Estou em constante aprimoramento e estudo, buscando ir além dos conhecimentos acadêmicos enquanto concluo minha graduação em Análise e Desenvolvimento de Sistemas.
 
-Como desenvolvedor front-end, foco em criar interfaces eficientes, com alta performance e usabilidade, garantindo uma experiência do usuário fluida e responsiva. Valorizo boas práticas de acessibilidade, SEO, escalabilidade e modularidade no código, mantendo um front-end intuitivo e de fácil manutenção. Busco entregar soluções visuais e interativas que agreguem valor ao produto e facilitem o engajamento dos usuários.
+Desenvolvedor de software apaixonado por automação e web scraping em Python, com experiência em criar bots para coleta e tratamento de dados. Também atuo no desenvolvimento full-stack de interfaces web responsivas e na concepção de projetos que unem pensamento computacional a atividades práticas. Sempre em busca de novas soluções para otimizar processos e colaborar com a comunidade open source.
 
-Meu objetivo é encontrar uma oportunidade onde eu possa me aprofundar em novos conhecimentos e contribuir ativamente com a empresa, colaborando ao lado de profissionais experientes para absorver o máximo de experiência possível. Almejo crescer continuamente, tanto tecnicamente quanto pessoalmente, visando me tornar um profissional altamente qualificado e preparado para desafios complexos.
+Meu objetivo é encontrar uma oportunidades onde eu possa me aprofundar em novos conhecimentos e contribuir ativamente com a empresa, colaborando ao lado de profissionais experientes para absorver o máximo de experiência possível. Almejo crescer continuamente, tanto tecnicamente quanto pessoalmente, visando me tornar um profissional altamente qualificado e preparado para desafios complexos.
 ### Entre em contato comigo através de:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/paulo-gomes-7493a9209/)
 
